@@ -1,4 +1,2 @@
-mx-docs
-=======
-
-Documentation for MX Linux
+# mxum
+Users Manual for MX Linux

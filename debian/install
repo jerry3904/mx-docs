@@ -1,3 +1,3 @@
-changelog.gz               /usr/share/doc/docs-mx 
-copyright                  /usr/share/doc/docs-mx
-doc/*                      /usr/local/share/doc 
+*.pdf                      usr/local/share/doc 
+Help.desktop		   usr/share/applications
+mx-manual		   /usr/bin
