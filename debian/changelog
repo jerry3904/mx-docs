@@ -1,8 +1,8 @@
-mx-docs (20180301mx17) UNRELEASED; urgency=medium
+mx-docs (20180301mx17) mx; urgency=medium
 
-  * new mx17 spainish translation,misc updates
+  * updated manual 
 
- -- Dolphin <dolphinoracle@gmail.com>  Thu, 01 Mar 2018 19:39:24 -0500
+ -- Dolphin <dolphinoracle@gmail.com>  Mon, 05 Mar 2018 19:02:29 -0500
 
 mx-docs (20180128mx17) mx; urgency=medium
 
