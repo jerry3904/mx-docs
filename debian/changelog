@@ -1,3 +1,10 @@
+mx-docs (20190523mx18.3) mx; urgency=medium
+
+  * add desktop icon
+  * updated manual
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 24 May 2019 19:24:14 -0400
+
 mx-docs (20190519mx18.3) mx; urgency=medium
 
   * update installer section
