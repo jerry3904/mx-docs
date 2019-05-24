@@ -1,3 +1,4 @@
 *.pdf                      usr/local/share/doc 
 Help.desktop		   usr/share/applications
 mx-manual		   /usr/bin
+manual.desktop		/etc/skel/Desktop
