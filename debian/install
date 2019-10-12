@@ -1,6 +1,7 @@
 *.pdf                      usr/local/share/doc 
 Help.desktop		   usr/share/applications
 mx-manual		   usr/bin
+mx-faq				usr/bin
 manual.desktop		etc/skel/Desktop
 FAQ.desktop			etc/skel/Desktop
 FAQ.desktop			usr/share/applications
