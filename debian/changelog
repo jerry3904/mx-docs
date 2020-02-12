@@ -1,3 +1,9 @@
+mx-docs (20200211mx19) mx; urgency=medium
+
+  * update for mx19.1
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 11 Feb 2020 20:50:32 -0500
+
 mx-docs (20191104mx19) mx; urgency=medium
 
   * manual update (missing from 20191103mx19) 
