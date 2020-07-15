@@ -1,3 +1,40 @@
+mx-docs (20200211mx19+1) mx; urgency=medium
+
+  * update control file
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 30 Mar 2020 22:38:15 -0400
+
+mx-docs (20200211mx19) mx; urgency=medium
+
+  * update for mx19.1
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 11 Feb 2020 20:50:32 -0500
+
+mx-docs (20191104mx19) mx; urgency=medium
+
+  * manual update (missing from 20191103mx19) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 04 Nov 2019 19:13:47 -0500
+
+mx-docs (20191103mx19) mx; urgency=medium
+
+  * new translations faq
+  * manual updates 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 03 Nov 2019 18:46:11 -0500
+
+mx-docs (20191021mx19) mx; urgency=medium
+
+  * new translations (id, pt, fr, sk)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 21 Oct 2019 10:32:49 -0400
+
+mx-docs (20191019mx19) mx; urgency=medium
+
+  * added FAQ tranlsations  (es, pl, se)  
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 19 Oct 2019 20:45:37 -0400
+
 mx-docs (20191013mx19) mx; urgency=medium
 
   * added Greek translations 
