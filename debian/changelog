@@ -1,3 +1,9 @@
+mx-docs (20200211mx19+2) mx; urgency=medium
+
+  * adding thai translation 
+
+ -- Dolphin Oracle <dolphin@littlebyte>  Wed, 15 Jul 2020 23:13:51 -0400
+
 mx-docs (20200211mx19+1) mx; urgency=medium
 
   * update control file
