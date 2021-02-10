@@ -1,3 +1,16 @@
+mx-docs (20200817mx19) mx; urgency=medium
+
+  * Non-maintainer upload.
+  * Spanish translation of latest Manual added
+
+ -- j b <jb@X1Cmx>  Mon, 17 Aug 2020 10:39:31 -0400
+
+mx-docs (20200801mx19) mx; urgency=medium
+
+  * updated main manual with KDE-plasma stuff 
+
+ -- Dolphin Oracle <dolphin@littlebyte>  Sun, 02 Aug 2020 11:20:57 -0400
+
 mx-docs (20200211mx19+2) mx; urgency=medium
 
   * adding thai translation 
